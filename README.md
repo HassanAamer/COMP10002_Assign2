@@ -1,2 +1,9 @@
 # COMP10002_Assign2
-Foundations of Algorithms Assignment2: Checkers playing AI
+This is my solution for Assignment 2 of Foundations of Algorithms.
+
+This assignment consisted of creating a Checkers playing bot that uses minimax decision trees to choose the optimal next move.
+
+Features:
+- A terminal display for the current board state
+- Feeding board states through text files
+- Machine simulation (The AI plays 10 moves from the POV of both players)
